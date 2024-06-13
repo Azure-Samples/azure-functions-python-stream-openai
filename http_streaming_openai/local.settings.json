@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "PYTHON_ENABLE_INIT_INDEXING": 1,
+    "AZURE_OPEN_AI_ENDPOINT": "<>",
+    "AZURE_OPEN_AI_API_KEY": "<>",
+    "AZURE_OPEN_AI_DEPLOYMENT_MODEL": "chat"
+  }
+}
