@@ -9,7 +9,7 @@ import asyncio
 import os
 
 # Azure Function App
-app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
+app = func.FunctionApp(http_auth_level=func.AuthLevel.FUNCTION)
 
 endpoint = os.environ["AZURE_OPEN_AI_ENDPOINT"]
 api_key = os.environ["AZURE_OPEN_AI_API_KEY"]
