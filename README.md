@@ -1,6 +1,6 @@
-# Azure Functions using Python: HTTP Streaming & Open AI
+# Azure Functions using Python: HTTP Streaming & OpenAI
 
-The following sample leverages HTTP streaming with Azure Functions in Python. The function app retrieves data from Azure Open AI and streams the output.
+The following sample leverages HTTP streaming with Azure Functions in Python. The function app retrieves data from Azure OpenAI and streams the output.
 
 Before running the sample, follow the instructions to [Get Started with Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python). 
 
